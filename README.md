@@ -8,12 +8,12 @@ Este documento describe el proceso de deployment automático implementado para l
 
 ## 📋 Índice
 
-- [Arquitectura del Deployment](#arquitectura-del-deployment)
-- [Configuración Inicial](#configuración-inicial)
-- [Proceso de Deployment](#proceso-de-deployment)
-- [Scripts Disponibles](#scripts-disponibles)
-- [Troubleshooting](#troubleshooting)
-- [Rollback](#rollback)
+- [Arquitectura del Deployment](#️-arquitectura-del-deployment)
+- [Configuración Inicial](#️-configuración-inicial)
+- [Proceso de Deployment](#-proceso-de-deployment)
+- [Scripts Disponibles](#-scripts-disponibles)
+- [Troubleshooting](#-troubleshooting)
+- [Rollback](#-rollback)
 
 ## 🏗️ Arquitectura del Deployment
 
